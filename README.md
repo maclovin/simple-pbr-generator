@@ -11,10 +11,10 @@ Install using Python3 PIP.
 `python3 -m pip install -r requirements.txt`
 
 ## Usage
-`simple_pbr_generator.py input_file [-h] [-o OUTPUT_FILE] [-s SMOOTH] [-it INTENSITY]`
+`$ python3 simple_pbr_generator.py input_file [-h] [-o OUTPUT_FILE] [-s SMOOTH] [-it INTENSITY]`
 
 ## Basic Example
-`python3 simple_pbr_generator.py ~/my-awesome-retro-game/HLTX0952.png`
+`$ python3 simple_pbr_generator.py ~/my-awesome-retro-game/HLTX0952.png`
 
 The output will be `HLTX0952_normal.png`, `HLTX0952_height.png` and `HLTX0952_ao.png`.
 
