@@ -11,10 +11,7 @@ Install using Python3 PIP.
 `python3 -m pip install -r requirements.txt`
 
 ## Usage
-```
-simple_pbr_generator.py input_file [-h] [-o OUTPUT_FILE] [-s SMOOTH] [-it INTENSITY]
-
-```
+`simple_pbr_generator.py input_file [-h] [-o OUTPUT_FILE] [-s SMOOTH] [-it INTENSITY]`
 
 ## Basic Example
 `python3 simple_pbr_generator.py ~/my-awesome-retro-game/HLTX0952.png`
