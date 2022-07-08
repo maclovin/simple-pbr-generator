@@ -12,8 +12,7 @@ Install using Python3 PIP.
 
 ## Usage
 ```
-simple_pbr_generator.py [-h] [-o OUTPUT_FILE] [-s SMOOTH] [-it INTENSITY] input_file
-simple_pbr_generator.py: error: the following arguments are required: input_file
+simple_pbr_generator.py input_file [-h] [-o OUTPUT_FILE] [-s SMOOTH] [-it INTENSITY]
 
 ```
 
